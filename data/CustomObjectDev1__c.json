@@ -1,0 +1,18 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "CustomObjectDev1__c",
+                "referenceId": "CustomObjectDev1__cRef1"
+            },
+            "Name": "Demo2"
+        },
+        {
+            "attributes": {
+                "type": "CustomObjectDev1__c",
+                "referenceId": "CustomObjectDev1__cRef2"
+            },
+            "Name": "Demo1"
+        }
+    ]
+}
