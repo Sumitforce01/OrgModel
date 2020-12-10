@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>CustomObject</name>
+    <members>CustomObjectDev1__c</members>
+    <members>CustomObjectDev2__c</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>CustomObjectDev1__c.CustomFieldDev1__c</members>
+    <members>CustomObjectDev2__c.CustomFieldDev2__c</members>
+  </types>
+  <types>
+    <name>ListView</name>
+    <members>CustomObjectDev2__c.All</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>CustomObjectDev1__c</members>
+    <members>CustomObjectDev2__c</members>
+  </types>
+  <types>
+    <name>PermissionSet</name>
+    <members>CustomPermDev1</members>
+    <members>CustomPermDev2</members>
+  </types>
+  <version>50.0</version>
+</Package>
